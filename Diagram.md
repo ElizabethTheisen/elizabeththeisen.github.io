@@ -21,9 +21,9 @@ This flow chart describes the process of how to adopt an animal from the shelter
 *C* You'll also want to make sure you have enough money to adopt the pet and have a budget for them (food, vet, training).  
 *D* Make sure they get along with your other pets  
 *E* Go to the local shelter  
-*F* Look at all the animals and find one that's compatible for you  
+*F* Look at all the animals and find one that's compatible for you and other pets.  
 *G* Spend some time with them  
 *H* If you're compatible, do we adopt?   
 *I* Yes, fill out an application and pay the adoption fee.   
-*J* No, think about it and leave.
+*J* No, think about it more and leave.
 
