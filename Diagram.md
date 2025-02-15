@@ -11,7 +11,7 @@ graph TD
     F --> G{Spend some time with them to see if you're compatible}
     G --> H[If you're compatible, do we adopt?]
     H -->|Yes| I[Fill out an application and pay the adoption fee]
-    H -->|No| J[Think about it and leave]
+    H -->|No| J[Think about it more and leave]
     I --> J
 ```
 This flow chart describes the process of how to adopt an animal from the shelter.  
