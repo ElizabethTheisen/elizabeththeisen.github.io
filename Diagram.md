@@ -3,7 +3,7 @@
 title: How To Adopt an Animal from an Animal Shelter
 ---
 graph TD
-    A[Look at the pets online] --> B(Confirm that your housing will allow pets)
+    A[Look for local pet shelters online] --> B(Confirm that your housing will allow pets)
     B --> C{Make sure you have enough money and have a budget for the pet}
     C --> D[If you have other pets, make sure they get along]
     D --> E{Go to your local shelter}
@@ -16,7 +16,7 @@ graph TD
 ```
 This flow chart describes the process of how to adopt an animal from the shelter.  
 
-*A* You'll start by looking at pets online  
+*A* You'll start by looking for local pet shelters online  
 *B* Next, confirm that your housing will allow pets  
 *C* You'll also want to make sure you have enough money to adopt the pet and have a budget for them (food, vet, training).  
 *D* Make sure they get along with your other pets  
