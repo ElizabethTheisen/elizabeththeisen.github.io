@@ -4,7 +4,8 @@
   "description": "Elizabeth Theisen",
   "main": "cti_110_node.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node cti_110_node.js",
+    "devStart": "nodemon cti_110_node.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   "homepage": "https://github.com/ElizabethTheisen/elizabeththeisen.github.io#readme",
   "dependencies": {
     "express": "^5.1.0",
+    "nodemon": "^3.1.10",
     "pg": "^8.15.6"
   }
 }
