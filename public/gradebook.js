@@ -1,4 +1,4 @@
-// TODO: Fetch data from the PostgreSQL database (to be implemented later)
+// Call the fetchGradeData function to demonstrate the workflow
 function fetchGradeData (){
     //This function will query the PostgreSQL database and return grade data
     console.log("Fetching grade data..");
