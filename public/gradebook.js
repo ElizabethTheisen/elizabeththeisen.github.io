@@ -55,7 +55,3 @@ function populateGradebook(data){
     });
 
 }
-
-// Call the stubs to demonstrate the workflow
-const gradeData = fetchGradeData();
-populateGradebook(gradeData);
