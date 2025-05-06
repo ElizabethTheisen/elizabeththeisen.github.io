@@ -5,9 +5,10 @@
             "server": "localhost",
             "port": 5432,
             "driver": "PostgreSQL",
-            "name": "CTI_110_WakeTech",
+            "name": "Gradebook",
             "database": "Gradebook",
-            "username": "postgres"
+            "username": "postgres",
+            "password": "CTI_110_WakeTech"
         }
     ]
 }
